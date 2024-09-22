@@ -1,4 +1,4 @@
---  BASIC QUESTIONS 
+--  BASIC QUESTIONS
 
 -- Retrieve the total number of orders placed.
 SELECT 
